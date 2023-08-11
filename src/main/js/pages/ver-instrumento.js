@@ -37,3 +37,5 @@ const VerInstrumentoPage = () => {
         </>
     )
 }
+
+module.exports = VerInstrumentoPage;
